@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'KCCHyerim';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCHyerim/KCCHyerim.woff2') format('woff2'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCHyerim/KCCHyerim.woff') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCHyerim/KCCHyerim.otf') format('opentype'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCHyerim/KCCHyerim.ttf') format('truetype');
+}
